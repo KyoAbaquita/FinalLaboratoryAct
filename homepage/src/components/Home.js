@@ -1,12 +1,13 @@
 import React from 'react';
- 
-const Home = () => {
-    return (
-        <div className="home-page">
-            <h1>Welcome to My Profile!</h1>
-            <p>I am passionate about coding and aim to build modern web applications that make a difference.</p>
-        </div>
-    );
+
+const About = () => {
+  return (
+    <div> 
+      <h1>Welcome to My Page!</h1>
+      <p>Hello! I'm Abaquita Shakira Kyo C., a 20-year-old student currently studying at PoamaSantasan ng Cabuyao, pursuing a Bachelor's degree in Information Technology (BSIT). I'm passionate about technology, programming, and building creative digital solutions.</p>
+      <p>As I continue my studies, I strive to enhance my skills and apply what I learn in real-world projects. I'm excited about the future of tech and look forward to exploring new opportunities in software development, web design, and beyond.</p>
+    </div>
+  );
 };
- 
-export default Home;
+
+export default About;
