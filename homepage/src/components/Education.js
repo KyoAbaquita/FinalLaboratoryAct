@@ -15,17 +15,21 @@ const Education = () => {
         <h2 className="text-success">Junior High School</h2>
         <ul style={listStyle}>
           <li>Pulo National High School</li>
+          <p> Strand: Stem</p>
         </ul>
 
         <h2 className="text-success">Senior High School</h2>
         <ul style={listStyle}>
           <li>AITSA</li>
+          <p> Strand: Stem</p>
           <li>St. Ignitius Academy</li>
+          <p> Strand: Stem</p>
         </ul>
 
         <h2 className="text-success">College</h2>
         <ul style={listStyle}>
           <li>Pamantasan ng Cabuyao (UC)</li>
+          <p> Course: BSIT</p>
         </ul>
         </div>
     </div>
